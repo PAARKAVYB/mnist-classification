@@ -164,6 +164,7 @@ print(x_single_prediction)
 
 ### NEW SAMPLE DATA PREDICTION:
 ![output](op6.png)
+
 ![output](op7.png)
 
 ## RESULT:
